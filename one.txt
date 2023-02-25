@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 please be patientfadsfasdfasdfasdfadsf
+=======
+i am the strongest sannin in the world.
+whats up
+>>>>>>> feature
